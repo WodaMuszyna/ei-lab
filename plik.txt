@@ -1,3 +1,6 @@
 =================================================================
 test
+To ja
+Piszę dowolny tekst w tym miejsu
+Ponieważ jest to zadanie do wykonania na naszych laboratoriach
 =================================================================
