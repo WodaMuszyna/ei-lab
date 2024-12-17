@@ -1,4 +1,5 @@
 =================================================================
+dowolny tekst
 loreem ipsum bla bla bla
 test
 New file edit from MR!
